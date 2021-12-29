@@ -1,2 +1,2 @@
 # Laser-Util
-![] (web\img\Screenshot 2021-11-27 153026.png)
+(https://github.com/PotentiaPerditio/Laser-Util/blob/main/Screenshot%202021-11-27%20153026.png)
